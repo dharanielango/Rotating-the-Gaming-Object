@@ -60,7 +60,7 @@ public class exx1 : MonoBehaviour
 ```
 ## Output:
 ![o](2.png)
-![o](1.png)
+![o](ar1.png)
 
 ## Result:
 Thus,the 3D application for rotating the gaming objects in unity has been executed successfully.
